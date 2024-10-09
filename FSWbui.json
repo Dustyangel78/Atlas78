@@ -2,8 +2,8 @@
 	{
 	"ServerName":"PVE Feierabend Zocker DE",
 	"ButtonTxt1":"",
-	"ButtonTxt2":"Server  ",
-	"ButtonTxt3":"",
+	"ButtonTxt2":"Server Regeln ",
+	"ButtonTxt3":"Server News",
 	"ButtonTxt4":"",
 	"ButtonTxt5":"",
 	"LinkButtonTxt1":"Discord",
@@ -94,7 +94,9 @@ Alle Arten von Strukturen außerhalb der Basis ( wie z.B. Lagerfeuer, Schraenke,
 maximale Claims pro Company/ Singleplayer:
 Es darf maximal eine Inseln geclaimt werden.",
 	"Tab1Text2":"",
-	"Tab1Text3":"",
+	"Tab1Text3":"Neuigkeiten zum Server...... Smart Decay wurde installiert verfall bei nicht Onlinespieler liegt bei 25 Tagen, nach 20 Tagen kommt das Decay Zeichen womit eure Basis von anderen Piraten geplündert werden kann.
+Es sind dann noch 5 Tagee bis zur vollstaendigen Loeschung. Solltet Ihr vorher online kommen wird das dacay verhindert. Die Decay zeichen verschwinden erst bei Serverneustart Täglich um 03.45 Uhr.
+Freeport ist Shipdecay auf 2 Tage festgesetzt. ",
 	"Tab2Text1":"Server PVE
 Reduzierter Vitamin verbrauch
 Reduzierter Essen/wasser Verbrauch
